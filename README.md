@@ -1,4 +1,4 @@
-# Ternoa TEE server for Secret-NFT
+#  TEE server 
 
 ## Prerequisites
 
